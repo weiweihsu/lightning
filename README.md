@@ -1,2 +1,2 @@
 # weiweihsu.github.io
-animation
+http://weiweihsu.github.io/lightning/
